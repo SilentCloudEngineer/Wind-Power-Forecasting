@@ -1,11 +1,5 @@
 # **Wind Power Forecasting – Application Tool**
 
-This repository contains the source code for my **Final Master's degree project** in [Decision Systems Engineering](https://www.urjc.es/estudios/master/915-ingenieria-de-sistemas-de-decision) at [Rey Juan Carlos University](https://www.urjc.es/). The project focuses on *Wind Power Forecasting using Machine Learning techniques* and was developed as part of the [Data Science Challenge](https://challengedata.ens.fr/participants/challenges/34/) organized by *Compagnie nationale du Rhône (CNR)*.
-
-For a detailed explanation, you can read the full **master’s thesis [here](thesis.pdf)**.
-
----
-
 ## **Project Overview**
 
 This tool is designed to be a **flexible and configurable application** for building, analyzing, and deploying ML models for wind power forecasting. The project applies **software engineering best practices** to ML pipelines using:
